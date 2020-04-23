@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2efeddcc-ca14-4227-a272-4f04b4bab752" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1avxP1A6mhZtwbfVyXZcNs4dUnI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="delete-wallpapers-month" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2efeddcc-ca14-4227-a272-4f04b4bab752" name="Default Changelist" comment="" />
+      <created>1587629842491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587629842491</updated>
+      <workItem from="1587629859996" duration="2273000" />
+    </task>
+    <task id="LOCAL-00001" summary=":tada:">
+      <created>1587629938350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587629938350</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":tada:">
+      <created>1587630441728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587630441728</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done">
+      <created>1587632057681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587632057681</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":tada:" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="28" width="933" height="736" key="CommitChangelistDialog2" timestamp="1587632057587">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="211" y="28" width="933" height="736" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1587632057587" />
+    <state width="1316" height="164" key="GridCell.Tab.0.bottom" timestamp="1587632151474">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1316" height="164" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1587632151474" />
+    <state width="1316" height="164" key="GridCell.Tab.0.center" timestamp="1587632151472">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1316" height="164" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1587632151472" />
+    <state width="1316" height="164" key="GridCell.Tab.0.left" timestamp="1587632151472">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1316" height="164" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1587632151472" />
+    <state width="1316" height="164" key="GridCell.Tab.0.right" timestamp="1587632151473">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1316" height="164" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1587632151473" />
+    <state x="278" y="130" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1587632062054">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="278" y="130" width="800" height="532" key="Vcs.Push.Dialog.v2/0.28.1366.740@0.28.1366.740" timestamp="1587632062054" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/delete_wallpapers_month$app.coverage" NAME="app Coverage Results" MODIFIED="1587631989654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
